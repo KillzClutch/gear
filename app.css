@@ -1,0 +1,58 @@
+
+.container-fluid {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  font-family: "Bungee", sans-serif;
+  text-align: center;
+  font-size: 6vw;
+  color: #000000;
+}
+
+header {
+  background-color: #000000;
+  background-image: url("lighting.jpg");
+  padding: 15vw 2em 0em;
+  background-position: center center;
+  background-size: cover;
+}
+body a, body a:visited,body a:active {
+  background-color:	#181818;
+  border: none;
+  border-color: transparent;
+}
+
+body {
+  background-color:	#	#989898;
+  color: #1C1C1C;
+}
+
+.text-box {
+  background-color: #B8B8B8 ;
+  padding-bottom: 1vw;
+  padding-top:
+}
+
+.larger-image {
+  width: 200%;
+}
+
+#main-title {
+  padding-top: 15px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.main-img{
+  margin-top: -35px;
+  padding-right: 10px;
+}
+
+.text-margin{
+  margin: 10px;
+}
+
+.containerWrap {
+  padding: 10px 10% 10px 10%;
+}
